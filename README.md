@@ -14,6 +14,8 @@
 
 ## System Testing:
 ### System testing is conducting testing on entire software/application by Test Engineers
+## Exhaustive Testing
+### Testing each and every possible combinations that is not possible in the real world
 
 
 ### Review: Cross checking project related works
@@ -26,7 +28,7 @@
 ### Manual Testing: To understand QA Manual, we should understand deeply the following things
 #### 1. SDLC
 #### 2. STLC:
-## SDLC:
+# SDLC:
 ### 1) Gathering requirements: Business Analyst will meet and interact with client or customer to gather all the business needs from him/her
 ### 2) Planning: Project manager will work in planning phase
 ### 3) Design: Designers will design the software or web application
@@ -34,17 +36,17 @@
 ### 5) Testing: Testers, QA Engineers, SDET will test
 ### 6) Deploy & Maintenance: Web Application or software will be delivered, deployed and maintained 
 
-## STLC: Software Testing Life Cycle
+# STLC: Software Testing Life Cycle
 ### Planning: Manager or Lead: a) Features to be tested and not to be tested
 ### Analysis: Deep dive  and try to understand about the customer, their needs, app and their requirements
 ### Design: Preparing certain test cases and verify whether we have covered test cases for the requirements or not
 ### Execution: Executing the test
-### Test Closure: Closing the test
+### Test Closure: Sharing every document with the clients and closing the test
 
 
 #### 3. Agile
 #### 4. JIRA
 
-## STLC:
+
 
 ### QA Automation:
