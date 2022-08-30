@@ -5,6 +5,8 @@
 ## What is software testing?
 ### Software Testing is the process of verifying whether we are developing the right product or not and validating whether the developed product is right or not. So, software testing is a combination of Verification (Static testing) & Validation (Dynamic testing).
 
+## Validation: It is a process to verify whether the developed software is right or wrong. It is done by both the Developers and Software Test Engineers. Validation done by developers are called White Box Testing and Validation done by Test Engineers are called Clack Box Testing. 
+
 ### Review: Cross checking project related works
 ### Formal review: If a review is conducted with pre-planned and systematic procedure and proper documentation, it is called formal review. Informal review is just opposite. 
 ### Management review: A review by highly management level people
