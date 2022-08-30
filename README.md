@@ -4,7 +4,7 @@
 #### 1. STLC
 #### 2. SDLC:
 ## SDELC:
-### 1) Gathering requirements
+### 1) Gathering requirements: Business Analyst will meet and interact with client or customer to gather all the business needs from him/her
 ### 2) Planning
 ### 3) Design
 ### 4) Development
