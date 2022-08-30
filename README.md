@@ -6,6 +6,8 @@
 ### Software Testing is the process of verifying whether we are developing the right product or not and validating whether the developed product is right or not. So, software testing is a combination of Verification (Static testing) & Validation (Dynamic testing).
 
 ### Review: Cross checking project related works
+### Formal review: If a review is conducted with pre-planned and systematic procedure and proper documentation, it is called formal review. Informal review is just opposite. 
+
 ### Walkthrough: Sharing knowledge by senior QA Engineer with new QA Engineers. It is also called as Knowledge transferring sessions.
 
 ## QA_TESTING:
