@@ -1,4 +1,10 @@
+## ============================================
 # SOFTWARE DEVELOPMENT ENGINEER IN TEST (SDET) 
+## ============================================
+
+## What is software testing?
+### Software Testing is the process of verifying whether we are developing the right product or not and validating whether the developed product is right or not.
+
 ## QA_TESTING:
 ### Manual Testing: To understand QA Manual, we should understand deeply the following things
 #### 1. STLC
