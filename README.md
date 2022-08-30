@@ -12,6 +12,9 @@
 ### Unit Testing: Testing conducted on the smallest portion of the code base
 ### Integration Testing: Testing conducted on the completed and integrated modules or features. Unit testing and integration testing are usually done by the developers.
 
+## System Testing:
+### System testing is conducting testing on entire software/application by Test Engineers
+
 
 ### Review: Cross checking project related works
 ### Formal review: If a review is conducted with pre-planned and systematic procedure and proper documentation, it is called formal review. Informal review is just opposite. 
@@ -21,8 +24,8 @@
 
 ## QA_TESTING:
 ### Manual Testing: To understand QA Manual, we should understand deeply the following things
-#### 1. STLC
-#### 2. SDLC:
+#### 1. SDLC
+#### 2. STLC:
 ## SDLC:
 ### 1) Gathering requirements: Business Analyst will meet and interact with client or customer to gather all the business needs from him/her
 ### 2) Planning: Project manager will work in planning phase
@@ -30,6 +33,13 @@
 ### 4) Development: Programmers or developers will develop the application or software
 ### 5) Testing: Testers, QA Engineers, SDET will test
 ### 6) Deploy & Maintenance: Web Application or software will be delivered, deployed and maintained 
+
+## STLC: Software Testing Life Cycle
+### Planning: Manager or Lead: a) Features to be tested and not to be tested
+### Analysis: Deep dive  and try to understand about the customer, their needs, app and their requirements
+### Design: Preparing certain test cases and verify whether we have covered test cases for the requirements or not
+### Execution: Executing the test
+### Test Closure: Closing the test
 
 
 #### 3. Agile
