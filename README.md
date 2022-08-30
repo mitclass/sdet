@@ -7,6 +7,7 @@
 
 ### Review: Cross checking project related works
 ### Formal review: If a review is conducted with pre-planned and systematic procedure and proper documentation, it is called formal review. Informal review is just opposite. 
+### Management review: A review by highly management level people
 
 ### Walkthrough: Sharing knowledge by senior QA Engineer with new QA Engineers. It is also called as Knowledge transferring sessions.
 
