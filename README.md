@@ -8,6 +8,7 @@
 ## Validation: It is a process to verify whether the developed software is right or wrong. It is done by both the Developers and Software Test Engineers. Validation done by developers are called White Box Testing and Validation done by Test Engineers are called Clack Box Testing. 
 
 ### White Box Testing: The Software Developers/Engineers conducted testing on the source codes to ensure 100% code coverage
+### Black Box Testing: Testing conducted on the web app/software bt the test engineers to ensure 100% requirement coverage
 ### Unit Testing: Testing conducted on the smallest portion of the code base
 ### Integration Testing: Testing conducted on the completed and integrated modules or features. Unit testing and integration testing are usually done by the developers.
 
