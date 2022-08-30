@@ -1,4 +1,4 @@
-# sdet
+# SOFTWARE DEVELOPMENT ENGINEER IN TEST (SDET) 
 ## QA_TESTING:
 ### Manual Testing: To understand QA Manual, we should understand deeply the following things
 #### 1. STLC
