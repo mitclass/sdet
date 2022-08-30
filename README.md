@@ -3,7 +3,10 @@
 ## ============================================
 
 ## What is software testing?
-### Software Testing is the process of verifying whether we are developing the right product or not and validating whether the developed product is right or not. So, software testing is a combination of Verification & Validation. 
+### Software Testing is the process of verifying whether we are developing the right product or not and validating whether the developed product is right or not. So, software testing is a combination of Verification (Static testing) & Validation (Dynamic testing).
+
+### Review: Cross checking project related works
+### Walkthrough: Sharing knowledge by senior QA Engineer with new QA Engineers. It is also called as Knowledge transferring sessions.
 
 ## QA_TESTING:
 ### Manual Testing: To understand QA Manual, we should understand deeply the following things
